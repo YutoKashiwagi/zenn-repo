@@ -1,0 +1,11 @@
+{
+  "name": "zenn-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github-sub:YutoKashiwagi/zenn-repo.git",
+  "author": "YutoKashiwagi <kashiwagi19950714@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.75"
+  }
+}
